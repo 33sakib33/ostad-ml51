@@ -1,1 +1,1 @@
-print("model model model")
+print("model model")
